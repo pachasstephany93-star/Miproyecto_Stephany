@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 ##⚙️ Uso
 Ejecutar la aplicación desde la terminal con el siguiente comando:
-streamlit run app.py
+        streamlit run app.py
 
 ##🗂️ Estructura de Archivos
 Aplicación/
