@@ -61,3 +61,23 @@ Puedes instalar los requisitos ejecutando:
 ```bash
 pip install -r requirements.txt
 
+⚙️ Uso
+Ejecutar la aplicación desde la terminal con el siguiente comando:
+streamlit run app.py
+
+🗂️ Estructura de Archivos
+Aplicación/
+│
+├── app.py               # Control principal de la aplicación
+├── funciones.py         # Funciones del sistema
+├── logo1.png            # Imagen de la interfaz
+├── requirements.txt     # Dependencias del proyecto
+├── README.md            # Documentación del proyecto
+
+🎓 Autor
+Stephany Xiomara Pachas Sanchez
+Ingeniería Textil
+2026
+
+📝 Licencia
+Proyecto desarrollado con fines académicos para el curso de Python Fundamentals.
